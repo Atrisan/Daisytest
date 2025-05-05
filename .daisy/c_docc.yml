@@ -17,7 +17,7 @@ steps:
   run:
     matmul:
       command: ./c/matmul.out
-      measurements: 5
+      measurements: 6
       profiler: perf
       loops: true
       metrics:
