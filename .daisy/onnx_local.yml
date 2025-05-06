@@ -15,5 +15,5 @@ steps:
 
   run:
     squeezenet:
-      model: onnx/squeezenet1.onnx
+      model: ./onnx/squeezenet1.onnx
       measurements: 1
